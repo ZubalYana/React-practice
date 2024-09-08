@@ -5,7 +5,7 @@ export default function Header({children}){
         <div className='Header'>
             {children}
             <ul>
-                <li>Home</li>
+                <li><u>Home</u></li>
                 <li>Pages</li>
                 <li>Services</li>
                 <li>Projects</li>
