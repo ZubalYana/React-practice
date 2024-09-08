@@ -17,3 +17,30 @@ ul{
     font-size: 16px;
     font-weight: 300;
 }
+.icons{
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.cartIconCon{
+    position: relative;
+}
+svg{
+    cursor: pointer;
+}
+.list{
+    width: 9px;
+    height: 9px;
+    background-color: #781414;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 6px;
+    font-weight: 300;
+    border-radius: 50%;
+    position: absolute;
+    top: -3px;
+    right: 3px;
+}
+
