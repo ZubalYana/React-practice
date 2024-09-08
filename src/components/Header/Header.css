@@ -8,3 +8,12 @@
     align-items: center;
     padding: 0 140px;
 }
+ul{
+    list-style: none;
+    width: 525px;
+    display: flex;
+    justify-content: space-between;
+    color: #1B1A1A;
+    font-size: 16px;
+    font-weight: 300;
+}
