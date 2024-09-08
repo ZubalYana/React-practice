@@ -6,7 +6,11 @@ function App() {
 
   return (
     <>
-    <Header Logo />
+      <Header>
+        <Logo />
+      </Header>
+      <Logo />
+
     </>
   )
 }
