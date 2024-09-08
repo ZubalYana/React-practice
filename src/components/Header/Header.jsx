@@ -1,8 +1,9 @@
 import React from 'react'
 import './Header.css'
-export default function Header(){
+export default function Header({children}){
     return(
         <div className='Header'>
+            {children}
         </div>
     )
 }
