@@ -9,6 +9,7 @@ function App() {
       <Header>
         <Logo />
       </Header>
+      <img src="/background.png" alt="" />
 
     </>
   )
