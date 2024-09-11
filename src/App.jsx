@@ -27,6 +27,7 @@ function App() {
         <div className="collectionCardsContainer">
         <CollectionCard>
         <ShopButton></ShopButton>
+        <img src="/chair 1" alt="" />
         </CollectionCard>
         </div>
       </div>
