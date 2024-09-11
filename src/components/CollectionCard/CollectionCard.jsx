@@ -1,5 +1,5 @@
 import React from 'react'
-import './ColleactionCard.css'
+import './CollectionCard.css'
 export default function Header({children}){
     return(
         <div className="collectionCard"></div>

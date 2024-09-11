@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './components/Header/Header'
 import Logo from './components/Logo/Logo'
+import CollectionCard from './components/CollectionCard/CollectionCard'
 
 function App() {
 
@@ -21,7 +22,13 @@ function App() {
         </div>
       </div>
       </div>
-      <div className="chairsCollection"></div>
+      <div className="chairsCollection">
+        <div className="collectionCardsContainer">
+        <CollectionCard />
+        <CollectionCard />
+        <CollectionCard />
+        </div>
+      </div>
 
     </>
   )
