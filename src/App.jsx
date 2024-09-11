@@ -24,9 +24,9 @@ function App() {
       </div>
       <div className="chairsCollection">
         <div className="collectionCardsContainer">
-        <CollectionCard />
-        <CollectionCard />
-        <CollectionCard />
+        <CollectionCard></CollectionCard>
+        <CollectionCard></CollectionCard>
+        <CollectionCard></CollectionCard>
         </div>
       </div>
 
