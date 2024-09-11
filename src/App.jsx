@@ -2,6 +2,7 @@ import './App.css'
 import Header from './components/Header/Header'
 import Logo from './components/Logo/Logo'
 import CollectionCard from './components/CollectionCard/CollectionCard'
+import ShopButton from './components/ShopButton/ShopButton'
 
 function App() {
 
@@ -24,9 +25,9 @@ function App() {
       </div>
       <div className="chairsCollection">
         <div className="collectionCardsContainer">
-        <CollectionCard></CollectionCard>
-        <CollectionCard></CollectionCard>
-        <CollectionCard></CollectionCard>
+        <CollectionCard>
+        <ShopButton></ShopButton>
+        </CollectionCard>
         </div>
       </div>
 
