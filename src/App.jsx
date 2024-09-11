@@ -10,7 +10,8 @@ function App() {
         <Logo />
       </Header>
       <div className="mainPage">
-      <img className='backgroundImg' src="./assets/background.png" alt="" />
+      <img className='backgroundImg' src="/background.png" alt="" />
+      
       <div className="mainPage_content">
         <div className="line1"></div>
         <div className="line2"></div>
