@@ -11,7 +11,6 @@ function App() {
       </Header>
       <div className="mainPage">
       <img className='backgroundImg' src="/background.png" alt="" />
-      
       <div className="mainPage_content">
         <div className="line1"></div>
         <div className="line2"></div>
@@ -22,6 +21,7 @@ function App() {
         </div>
       </div>
       </div>
+      <div className="chairsCollection"></div>
 
     </>
   )
