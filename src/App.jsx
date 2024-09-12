@@ -23,10 +23,13 @@ function App() {
               Home Designs
               <br />
               Made Easy
+              
             </div>
             <div className="price">
               $416.00 <span className="price_starting">Starting</span>
             </div>
+            <ShopButton />
+
           </div>
         </div>
       </div>
