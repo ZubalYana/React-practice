@@ -15,8 +15,8 @@ function App() {
       <div className="mainPage">
         {/* <img className="backgroundImg" src={background} alt="Background" /> */}
         <div className="mainPage_content">
-          <div className="line1"></div>
-          <div className="line2"></div>
+          <div className="main_line1"></div>
+          <div className="main_line2"></div>
           <div className="text">
             <div className="subtitle">INTERIOR</div>
             <div className="title">
