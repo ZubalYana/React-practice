@@ -51,6 +51,12 @@ function App() {
          </CollectionCard>
         </div>
       </div>
+      <div className="newArrivals">
+        <div className="proTeamCon">
+          <div className="proTeamHr"></div>
+          PROFESSIONAL TEAM
+        </div>
+      </div>
     </>
   );
 }

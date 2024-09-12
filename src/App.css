@@ -92,3 +92,22 @@
     font-weight: 400;
     margin-bottom: 20px;
 }  
+.newArrivals{
+    width: 100%;
+    height: 100vh;
+    padding: 30px 120px;
+}
+.proTeamCon{
+    width: 234px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #9A6437;
+    font-size: 15px;
+    font-weight: 400;
+}
+.proTeamHr{
+    width: 55px;
+    height: 1px;
+    background-color: #9A6437;
+}
