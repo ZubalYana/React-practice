@@ -20,6 +20,8 @@
     align-items: center;
 }
 .mainPage_content{
+    width: 376px;
+    height: 309px;
     position: relative;
 }
 .line1{
