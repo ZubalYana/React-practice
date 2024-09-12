@@ -36,9 +36,19 @@ function App() {
       <div className="chairsCollection">
         <div className="collectionCardsContainer">
          <CollectionCard>
+         <div className="cardText">New Chair <br />
+         Collection 2022</div>
            <ShopButton className="transparentBg" />
          </CollectionCard>
-
+         <CollectionCard>
+         <div className="cardText">Lamp Desk</div>
+           <ShopButton className="transparentBg" />
+         </CollectionCard>
+         <CollectionCard>
+         <div className="cardText">Modern Chair <br />
+         Collection 2022</div>
+           <ShopButton className="transparentBg" />
+         </CollectionCard>
         </div>
       </div>
     </>
