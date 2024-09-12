@@ -35,10 +35,10 @@ function App() {
       </div>
       <div className="chairsCollection">
         <div className="collectionCardsContainer">
-          <CollectionCard>
-            <ShopButton />
-            {/* <img src={chair1} alt="Chair 1" /> */}
-          </CollectionCard>
+         <CollectionCard>
+           <ShopButton className="transparentBg" />
+         </CollectionCard>
+
         </div>
       </div>
     </>

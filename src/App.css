@@ -80,3 +80,11 @@
     display: flex;
     justify-content: space-between;
 }
+.transparentBtn{
+    background-color: #12121100;
+}
+.transparentBg .shopButton {
+    background-color: transparent !important;
+    color: #000;
+  }
+  
