@@ -3,6 +3,7 @@ import Header from './components/Header/Header';
 import Logo from './components/Logo/Logo';
 import CollectionCard from './components/CollectionCard/CollectionCard';
 import ShopButton from './components/ShopButton/ShopButton';
+import ArrivalsCard from './components/ArrivalsCard/ArrivalsCard';
 // import background from './assets/background.png';
 // import chair1 from './assets/chair 1.png';
 
@@ -64,6 +65,9 @@ function App() {
           <div className="nav_el">Lighting</div>
           <div className="nav_el">Accessories</div>
         </div>
+        </div>
+        <div className="arrivalsCardsCon">
+          <ArrivalsCard></ArrivalsCard>
         </div>
       </div>
     </>
