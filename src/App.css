@@ -115,3 +115,28 @@
     height: 1px;
     background-color: #9A6437;
 }
+.newArrivals_title{
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.newArrivals_nav{
+    width: 388px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_el{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    width: 77px;
+    height: 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active_navEl{
+    background-color: #333;
+    color: #fff;
+}

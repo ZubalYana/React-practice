@@ -3,8 +3,8 @@ import Header from './components/Header/Header';
 import Logo from './components/Logo/Logo';
 import CollectionCard from './components/CollectionCard/CollectionCard';
 import ShopButton from './components/ShopButton/ShopButton';
-// import background from './assets/background.png'; // Corrected import
-// import chair1 from './assets/chair 1.png'; // Import chair image
+// import background from './assets/background.png';
+// import chair1 from './assets/chair 1.png';
 
 function App() {
   return (
@@ -55,6 +55,15 @@ function App() {
         <div className="proTeamCon">
           <div className="proTeamHr"></div>
           PROFESSIONAL TEAM
+        </div>
+        <div className="newArrivals_titleNavCon">
+        <div className="newArrivals_title">The Best New Arrivals</div>
+        <div className="newArrivals_nav">
+          <div className="nav_el active_navEl">Desk</div>
+          <div className="nav_el">Bedroom</div>
+          <div className="nav_el">Lighting</div>
+          <div className="nav_el">Accessories</div>
+        </div>
         </div>
       </div>
     </>
