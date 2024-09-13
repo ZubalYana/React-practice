@@ -17,6 +17,12 @@
     font-size: 14px;
     font-weight: 600;
     position: absolute;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+.shopButton:hover{
+    background-color: transparent;
+    color: #000;
 }
 .line1{
     width: 1px;

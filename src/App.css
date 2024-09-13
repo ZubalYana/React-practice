@@ -87,6 +87,10 @@
     background-color: transparent !important;
     color: #000;
 }
+.transparentBg .shopButton:hover {
+    background-color: #000 !important;
+    color: #fff;
+}
 .cardText{
     font-size: 28px;
     font-weight: 400;
