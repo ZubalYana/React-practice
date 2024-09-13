@@ -139,4 +139,10 @@
 .active_navEl{
     background-color: #333;
     color: #fff;
+    cursor: pointer;
+}
+.newArrivals_titleNavCon{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
