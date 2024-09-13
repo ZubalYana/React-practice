@@ -5,6 +5,7 @@ import CollectionCard from './components/CollectionCard/CollectionCard';
 import ShopButton from './components/ShopButton/ShopButton';
 import ArrivalsCard from './components/ArrivalsCard/ArrivalsCard';
 import CompareBtn from './components/CompareBtn/CompareBtn';
+import LikeBtn from './components/LikeBtn/LikeBtn';
 // import background from './assets/background.png';
 // import chair1 from './assets/chair 1.png';
 
@@ -70,6 +71,7 @@ function App() {
         <div className="arrivalsCardsCon">
           <ArrivalsCard>
           <CompareBtn />
+          <LikeBtn />
           </ArrivalsCard>
         </div>
       </div>
