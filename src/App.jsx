@@ -4,6 +4,7 @@ import Logo from './components/Logo/Logo';
 import CollectionCard from './components/CollectionCard/CollectionCard';
 import ShopButton from './components/ShopButton/ShopButton';
 import ArrivalsCard from './components/ArrivalsCard/ArrivalsCard';
+import CompareBtn from './components/CompareBtn/CompareBtn';
 // import background from './assets/background.png';
 // import chair1 from './assets/chair 1.png';
 
@@ -67,7 +68,9 @@ function App() {
         </div>
         </div>
         <div className="arrivalsCardsCon">
-          <ArrivalsCard></ArrivalsCard>
+          <ArrivalsCard>
+          <CompareBtn />
+          </ArrivalsCard>
         </div>
       </div>
     </>
