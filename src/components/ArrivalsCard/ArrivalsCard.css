@@ -17,3 +17,19 @@
     align-items: center;
     padding: 0px 84px;
 }
+.priceAndRating{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 84px;
+}
+.price{
+    font-size: 15px;
+    font-weight: 400;
+    color: #1E1D1D;
+    display: flex;
+}
+.price s{
+    color: #737373;
+    margin-right: 8px;
+}
