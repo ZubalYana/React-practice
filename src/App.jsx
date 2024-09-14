@@ -7,6 +7,7 @@ import ArrivalsCard from './components/ArrivalsCard/ArrivalsCard';
 import CompareBtn from './components/CompareBtn/CompareBtn';
 import LikeBtn from './components/LikeBtn/LikeBtn';
 import CardBtn from './components//CardBtn/CardBtn';
+import Stars from './components/Stars/stars';
 // import background from './assets/background.png';
 // import chair1 from './assets/chair 1.png';
 
@@ -74,6 +75,7 @@ function App() {
           <CompareBtn />
           <LikeBtn />
           <CardBtn />
+          
           </ArrivalsCard>
         </div>
       </div>
