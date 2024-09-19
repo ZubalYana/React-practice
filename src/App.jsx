@@ -7,8 +7,6 @@ import ArrivalsCard from './components/ArrivalsCard/ArrivalsCard';
 import CompareBtn from './components/CompareBtn/CompareBtn';
 import LikeBtn from './components/LikeBtn/LikeBtn';
 import CardBtn from './components//CardBtn/CardBtn';
-// import background from './assets/background.png';
-// import chair1 from './assets/chair 1.png';
 
 function App() {
   return (
@@ -17,7 +15,6 @@ function App() {
         <Logo />
       </Header>
       <div className="mainPage">
-        {/* <img className="backgroundImg" src={background} alt="Background" /> */}
         <div className="mainPage_content">
           <div className="main_line1"></div>
           <div className="main_line2"></div>
